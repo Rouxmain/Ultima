@@ -1,2 +1,2 @@
-![[Odin.png]]![[Barnabas Tharmr.png]]Barnabas Tharmr était le dominant d'Odin et dirigeant de Ténébrae.
+![[Odin.png]]Barnabas Tharmr était le dominant d'Odin et dirigeant de Ténébrae.
 Il a prône son envie de paix avec Lumos durant des décennies, mais le soir de [[La Nuit Absolue]], il décima son pays, l'écrasant sous un puissant sort de ténèbres, tuant quiconque souhaitant s'y rendre.
