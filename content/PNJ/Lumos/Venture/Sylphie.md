@@ -1,0 +1,1 @@
+![[Sylphie.jpg]]Puissante mage blanc, elle est l'épouse de [[Rudeus]]

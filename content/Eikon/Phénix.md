@@ -1,0 +1,1 @@
+![[Phoenix.webp]]Phénix est l’Eikon du feu, symbole de renaissance et d’espoir. Capable de maîtriser les flammes, il possède un pouvoir de guérison et incarne la force de se relever après la destruction.

@@ -1,0 +1,1 @@
+![[Roxy.jpg]]Puissante Mage noir, elle est l'épouse de [[Rudeus]]

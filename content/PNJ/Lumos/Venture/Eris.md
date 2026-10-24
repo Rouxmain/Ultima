@@ -1,0 +1,1 @@
+![[Eris.jpg]]Puissante guerrier à l'épée, elle est l'épouse de [[Rudeus]].

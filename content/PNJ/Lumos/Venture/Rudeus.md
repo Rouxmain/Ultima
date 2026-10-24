@@ -1,1 +1,1 @@
-Puissant mage marié à [[Sylphie]], [[Roxy]] et [[Eris]]
+Puissant mage marié à [[Sylphie]], [[Roxy]] et [[Eris]]![[Rudeus.jpg]]

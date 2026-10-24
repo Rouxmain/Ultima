@@ -1,1 +1,1 @@
-Dominant de la Foudre
+Ramuh est l’Eikon de la foudre, symbole de sagesse et de puissance. Armé de son bâton, il commande les éclairs et déchaîne de puissantes attaques électriques contre ses ennemis.![[Ramuh_from_FFXVI_artwork.webp]]
