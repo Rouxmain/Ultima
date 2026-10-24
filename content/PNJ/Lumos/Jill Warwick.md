@@ -1,0 +1,2 @@
+![[FFXVI_Jill_Warrick_Illustration.webp]]
+Une jeune fille originaire des terres du Nord confiée à la cour de Rosalia en gage de paix entre les deux pays. [[Elwin Rosefield]] l'a toujours traitée comme sa propre fille, aussi a-t-elle grandi aux côtés de [[Clive]] et [[Hikaru]]. Âgée de 15 ans, elle est l'amie et la confidente des deux frères, qui apprécient sa bonté et son affabilité. Elle entretient une relation sororal avec [[Memoria]] 

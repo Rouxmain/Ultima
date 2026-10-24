@@ -1,1 +1,1 @@
-![[ff16-gav.jpg]]
+![[Ff16-gav.jpg]]Informateur de confiance de [[Cidolfus Telamon]], il approche le monde pour apporter ou obtenir des informations.

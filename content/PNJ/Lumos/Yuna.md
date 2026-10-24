@@ -1,0 +1,1 @@
+![[Wotv-yuna.jpg]]Invocatrice confirmée, Yuna est une prêtresse du [[Royaume d'Aqua]], depuis des années elle et [[Tidus]]se suivent et parcourent les terres de leur nation pour protéger leur peuple. Elle semble particulièrement affective avec [[Paine]]

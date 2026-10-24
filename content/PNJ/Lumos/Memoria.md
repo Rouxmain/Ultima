@@ -1,0 +1,1 @@
+![[Memoria.webp]][[Memoria]] est la petite soeur de [[Clive]], impulsive, elle maîtrise de nombreuses magies, elle est qualifiée de "Prodige multiclasse

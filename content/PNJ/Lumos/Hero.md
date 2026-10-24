@@ -1,0 +1,1 @@
+![[Dissidia_Warrior_of_Light.webp]]Paladin de [[Saint-Empire de Lumos]], il est l'incarnation de la protection et de la lumière. Contrairement à [[Firion]] son frère, il déteste les ténèbres plus que tout au monde

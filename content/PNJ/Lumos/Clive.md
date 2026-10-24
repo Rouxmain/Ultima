@@ -1,0 +1,1 @@
+![[Kura.jpg]]Chevalier noir de 16 ans toujours accompagné de [[Hikaru]], il dévoue son corps et son âme à protéger les autres. Sa sœur [[Memoria]] le suit toujours à la trace malgré leur mésentente constante

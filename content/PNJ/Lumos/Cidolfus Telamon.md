@@ -1,1 +1,1 @@
-![[Cidolfus Telamon.png]]
+![[Cidolfus Telamon.png]]Cidolfus, alias "Cid", est l'Émissaire de Ramuh, a autrefois joué un rôle dans les affaires du royaume de Ténébrae. Il dirigeait jusqu'à récemment Fulgur avant de céder sa place à son frère Cid et de partir à Lumos monter l'académie des chevaliers primaires.

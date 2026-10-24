@@ -1,0 +1,2 @@
+![[Dissidia_Firion.webp]]
+Prodigieux Lumosien, il manie la lumière et le vent depuis jeune, aujourd'hui du haut de ses 25 ans, il compte devenir le prochain dominant de [[Saint-Empire de Lumos]], contrairement à son frère [[Hero]]. Il ne déteste pas les ténèbres

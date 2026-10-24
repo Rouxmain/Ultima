@@ -1,0 +1,1 @@
+![[Djidane.jpg]]Homme singe de 12 ans venant de [[République de Terra]], il aime les femmes et se battre (probablement voler quand personne ne regarde) Il apprécie beaucoup [[Freedz]]
