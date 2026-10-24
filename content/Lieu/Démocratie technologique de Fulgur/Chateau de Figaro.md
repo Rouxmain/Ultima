@@ -1,0 +1,6 @@
+**Le château de Figaro** est un château situé au milieu d'un [désert](https://finalfantasy.fandom.com/wiki/Desert_%28location%29) , dirigé par [Edgar Roni Figaro](https://finalfantasy.fandom.com/wiki/Edgar_Roni_Figaro) . Hors de l' [Empire gestahlien,](https://finalfantasy.fandom.com/wiki/Gestahlian_Empire) c'est la nation la plus avancée technologiquement au monde et la force dominante du continent nord. Le château ressemble à une fortification médiévale traditionnelle construite en blocs de pierre, avec des remparts et des tourelles s'étendant sur toute sa longueur. Cependant, contrairement aux châteaux classiques, des turbines traversent ces tourelles, évoquant la haute technologie du royaume.
+
+Il y a dix ans, le précédent roi de Figaro mourut, et la rumeur courut qu'il avait été empoisonné par l'Empire. Le dernier souhait du roi était que le royaume soit dirigé conjointement par ses deux fils, Edgar et [Sabin](https://finalfantasy.fandom.com/wiki/Sabin_Rene_Figaro). Dégoûté par l'attention que le royaume portait à son successeur plutôt qu'à sa mort, Sabin fuit son royaume laissant Edgar pour seul Roi.
+
+Edgar est leur dominant, incarnant Alexandre
+![[Pasted image 20261024120445.png]]

@@ -1,0 +1,11 @@
+Doma est une nation simple, dépourvue de technologie et de machines comme le reste du monde.
+
+Selon la tradition orale, Doma fut fondée il y a 1 200 ans. Le pays survécut à la [Guerre des Mages](https://finalfantasy.fandom.com/wiki/War_of_the_Magi_%28Final_Fantasy_VI%29) et possédait des traces écrites de cette guerre, mais celles-ci furent perdues il y a 980 ans. Doma commença à former [des samouraïs](https://finalfantasy.fandom.com/wiki/Samurai_%28job%29) il y a 600 ans et refusa de s'industrialiser comme l' [Empire gestahlien](https://finalfantasy.fandom.com/wiki/Gestahlian_Empire) et [Figaro](https://finalfantasy.fandom.com/wiki/Figaro) .
+
+Cyan se prépare à combattre le capitaine impérial.
+
+Après une année d'escarmouches, l'Empire gestahlien lance la [Troisième Campagne gestahlienne](https://finalfantasy.fandom.com/wiki/Third_Gestahlian_Campaign) contre Doma et les [Revenants](https://finalfantasy.fandom.com/wiki/Returners) , un groupe de résistance anti-impérialiste. Doma livre une lutte acharnée, mais après deux ans de guerre, le château de Doma est assiégé par l' [Empire](https://finalfantasy.fandom.com/wiki/Siege_of_Doma) .
+
+Cyan est leur dominant, il incarne Yujimbo
+
+Le château de Doma est entouré d'eau et de remparts, ce qui le rend hautement défendable. Nombre de ses murs et allées semblent construits sur l'eau, et le château semble s'appuyer sur une série d'îles plutôt que sur la terre ferme. Hormis la porte principale, le seul accès au château se fait par un pan du mur ouest. Des allées s'étendent sur toute la surface et aboutissent aux portes principales du château. À l'intérieur, un large escalier mène à la salle du trône, et des portes mènent à une salle d'attente et à des casernes situées sous l'escalier. Les appartements personnels de Cyan se trouvent à l'est de la salle du trône, et au sud de ses appartements, une porte mène aux murs extérieurs du château. Une petite tour près de l'entrée abrite une réserve. Un escalier à l'ouest des portes de la salle du trône mène à un balcon au sommet du donjon.![[Pasted image 20261024120541.png]]

@@ -1,0 +1,1 @@
+Puissant mage marié à [[Sylphie]], [[Roxy]] et [[Eris]]

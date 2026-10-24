@@ -1,0 +1,1 @@
+![[Shin.jpg]]Père de [[Saba Sameko]], en voyage pour des affaires politique au [[Royaume Déchu de Ténébrae]], Il vécu ce qui est appelé aujourd'hui, [[La Nuit Absolue]], après avoir sauvé des habitants, il aide [[Ezreth Crocs]], [[Yunae]] et [[Seridu]] à fuir la ville et retrouver leur mari.
