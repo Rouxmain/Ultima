@@ -1,1 +1,0 @@
-Mère de [[Freedz Crocs]], elle a vécu [[La Nuit Absolue]] au coté de [[Shin]] et [[Seridu]] et à sauvé [[Yutis Velvet]] après que [[Yunae]] s'est sacrifié pour la sauvé et lui à confié sa fille![[maman freedz.jpg]]

@@ -1,1 +1,0 @@
-Épée légendaire de [[Ruka]], elle canalise l'éther et peut briser n'importe quel bouclier.

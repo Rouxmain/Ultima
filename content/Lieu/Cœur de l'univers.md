@@ -1,1 +1,0 @@
-![[GL_ChronoChaosRuinsInterior_Original_Day.jpg]]

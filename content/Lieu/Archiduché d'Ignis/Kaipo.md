@@ -1,2 +1,0 @@
-C'est une principauté désertique située au nord, et ses frontières incluent la ville de Kaipo. Damcyan est gouvernée par le prince Edward Chris von Muir et abrite le Cristal de Feu.  
-Edward est leur dominant et incarne Syph, un eikon volant l'énergie vitale de ses ennemis pour protéger les siens![[Pasted image 20261024115556.png]]

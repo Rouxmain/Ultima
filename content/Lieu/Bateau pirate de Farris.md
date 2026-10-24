@@ -1,1 +1,0 @@
-Farris est le capitaine d'un célèbre bateau de pirate, nul ne le connaît réellement mais certains, on peut déjà voir qu'il était le dominant de Syldra. Respectueux des codes de la société et ne tuant pas à tout va, les autres villes le laissent tranquille (sûrement pas peur de représailles)![[Pasted image 20261024120415.png]]
