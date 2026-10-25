@@ -1,0 +1,1 @@
+![[Anima.jpg]]Affronté dans un endroit inconnu, cette Eikon semble avoir imposé sa marque aux joueurs

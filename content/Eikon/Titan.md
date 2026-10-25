@@ -1,0 +1,1 @@
+![[Titan_from_FFXVI_artwork.png]]Titan est l’Eikon de la Terre, symbole de force et de puissance brute. Capable de contrôler la roche et de provoquer de violents séismes, il écrase ses ennemis grâce à sa force colossale et à ses poings dévastateurs.

@@ -1,0 +1,2 @@
+![[FFXV_Gentiana.jpg]]
+Gentiana est la Dominante de Shiva et la dirigeante de Glacies. Élégante, mystérieuse et impassible, elle incarne la puissance de la glace et veille sur son peuple avec une autorité silencieuse. Sa maîtrise du froid lui permet de figer ses ennemis et de déchaîner des pouvoirs glacials redoutables.

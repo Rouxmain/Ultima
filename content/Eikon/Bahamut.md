@@ -1,0 +1,1 @@
+![[Bahamut_from_Final_Fantasy_XVI_artwork.webp]]Bahamut est l’Eikon de la Lumière, symbole de majesté et de destruction. Ce dragon légendaire maîtrise une puissance magique colossale et déchaîne des rafales d’énergie dévastatrices, capables de ravager le champ de bataille grâce à ses attaques lumineuses. [[Dion Lesage]] est son dominant

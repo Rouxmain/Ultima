@@ -1,0 +1,1 @@
+Garuda est l’Eikon du Vent, symbole de liberté et de férocité. Maîtresse des courants aériens, elle déchaîne des rafales dévastatrices et utilise ses griffes pour lacérer ses ennemis avec une agilité redoutable. [[Benedikta Harman]] est sa dominante![[Garuda_from_FFXVI_artwork.webp]]

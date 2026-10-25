@@ -1,0 +1,1 @@
+![[Shiva.jpg]]Shiva est l’Eikon de la Glace, symbole d’élégance et de maîtrise. Capable de geler ses ennemis et de transformer le champ de bataille en un royaume glacé, elle déchaîne des attaques cryogéniques dévastatrices et immobilise ses adversaires dans une glace éternelle. [[Gentiana]] est sa dominante

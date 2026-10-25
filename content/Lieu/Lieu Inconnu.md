@@ -1,0 +1,1 @@
+![[GL_ChronoChaosRuinsInterior_Original_Day.jpg]]Lieu inconnu où [[Les Joueurs]] ont affrontés l'[[Eikon Inconnu]]
