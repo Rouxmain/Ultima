@@ -1,0 +1,3 @@
+Les Ao Ra sont à l'origine un peuple venant du continent de Primera. Beaucoup de rumeurs les disent descendants des dragons, notamment parce qu'ils ont des cornes et des écailles sur le corps. Deux tribus composent le peuple Ao Ra, l'une sédentaire et l'autre nomade.
+
+De nombreux érudits se sont penchés sur la question, avec une tendance à écarter les rumeurs : les dragons ne montrent pas de différences de taille de corne entre les hommes et les femmes comme les Ao Ra. Les excroissances crâniennes des Ao Ra leur permettent d'avoir une meilleure ouïe et une meilleure reconnaissance spatiale, ce que les dragons n'ont pas.![[Pasted image 20261025154050.png]]
