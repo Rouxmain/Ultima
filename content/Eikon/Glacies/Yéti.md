@@ -4,8 +4,6 @@ nation: "[[Royaume de Glacies]]"
 eikon_principal: "[[Shiva]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/glacies
 ---
 
 # Yéti

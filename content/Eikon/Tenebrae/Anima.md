@@ -4,8 +4,6 @@ nation: "[[Royaume Déchu de Ténébrae]]"
 eikon_principal: "[[Odin]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/tenebrae
 ---
 
 # Anima

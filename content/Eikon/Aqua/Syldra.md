@@ -4,8 +4,6 @@ nation: "[[Royaume d’Aqua]]"
 eikon_principal: "[[Léviathan]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/aqua
 ---
 
 # Syldra

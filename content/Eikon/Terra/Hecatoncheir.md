@@ -4,8 +4,6 @@ nation: "[[République de Terra]]"
 eikon_principal: "[[Titan]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/[[République de Terra]]
 ---
 
 # Hecatoncheir

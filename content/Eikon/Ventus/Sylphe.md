@@ -1,11 +1,9 @@
 ---
 type: eikon-secondaire
-nation: "Ventus"
+nation: Ventus
 eikon_principal: "[[Garuda]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/ventus
 ---
 
 # Sylphe

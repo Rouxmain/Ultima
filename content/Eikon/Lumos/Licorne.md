@@ -4,8 +4,6 @@ nation: "[[Saint-Empire de Lumos]]"
 eikon_principal: "[[Bahamut]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/lumos
 ---
 
 # Licorne

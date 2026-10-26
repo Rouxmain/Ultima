@@ -4,8 +4,6 @@ nation: Archiduché d’Ignis
 eikon_principal: "[[Phénix]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/ignis
 ---
 
 # Brynhildr

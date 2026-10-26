@@ -4,8 +4,6 @@ nation: "[[Démocratie technologique de Fulgur]]"
 eikon_principal: "[[Ramuh]]"
 statut: légende non confirmée
 tags:
-  - ultima/eikons
-  - nation/fulgur
 ---
 
 # Omega
