@@ -22,4 +22,4 @@ Des communautés organisent des veillées où chacun allume une bougie pour une 
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

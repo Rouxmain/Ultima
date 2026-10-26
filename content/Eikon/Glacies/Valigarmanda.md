@@ -22,4 +22,4 @@ Des veillées sont organisées lorsqu’un hiver arrive trop tôt, afin de déto
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Glacies]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons  Glacies]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

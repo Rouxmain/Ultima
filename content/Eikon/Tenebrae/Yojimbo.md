@@ -22,4 +22,4 @@ Les mercenaires le prient avant un duel, mais les anciens rappellent que toute f
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Tenebrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons  Tenebrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

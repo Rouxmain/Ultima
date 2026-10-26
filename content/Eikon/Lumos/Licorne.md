@@ -22,5 +22,5 @@ Des hospices lui consacrent une alcôve où les malades déposent des fleurs en 
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

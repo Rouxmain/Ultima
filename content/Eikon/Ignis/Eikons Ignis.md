@@ -4,7 +4,6 @@
 
 ## Eikons secondaires
 
-- [[Ifrit]]
 - [[Brynhildr]]
 - [[Belias]]
 - [[Salamandre]]

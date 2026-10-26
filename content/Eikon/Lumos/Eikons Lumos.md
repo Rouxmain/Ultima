@@ -6,7 +6,6 @@
 
 - [[Alexandre]]
 - [[Madeen]]
-- [[Carbuncle]]
 - [[Licorne]]
 - [[Séraphin]]
 

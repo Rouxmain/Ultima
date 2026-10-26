@@ -22,4 +22,4 @@ Les soldats et les familles endeuillées le prient pour trouver la force de reco
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Ignis]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons Ignis]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

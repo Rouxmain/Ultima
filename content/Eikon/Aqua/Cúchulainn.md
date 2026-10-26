@@ -22,5 +22,5 @@ Des offrandes sont déposées loin des sources pour détourner son influence. Le
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

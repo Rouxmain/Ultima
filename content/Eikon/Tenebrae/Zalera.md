@@ -22,11 +22,11 @@ Les familles lui adressent des prières lors des funérailles afin que les défu
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Tenebrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Eikons  Tenebrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 
 ## Liens Obsidian
 
-- **Nation :** [[Tenebrae]]
+- **Nation :** [[Eikons  Tenebrae]]
 - **Eikon principal :** [[Odin]]
 - **Index :** [[Index des Eikons]]
 
