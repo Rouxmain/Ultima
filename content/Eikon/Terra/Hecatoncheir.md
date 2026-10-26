@@ -1,11 +1,11 @@
 ---
 type: eikon-secondaire
-nation: "[[Terra]]"
+nation: "[[République de Terra]]"
 eikon_principal: "[[Titan]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
-  - nation/terra
+  - nation/[[République de Terra]]
 ---
 
 # Hecatoncheir
@@ -22,4 +22,4 @@ Les mineurs et les bâtisseurs lui adressent des prières avant de creuser de no
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de [[Terra]]. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de [[République de Terra]]. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

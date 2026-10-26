@@ -1,8 +1,8 @@
 ---
 type: eikon-secondaire
-nation: "Lumos"
+nation: "[[Saint-Empire de Lumos]]"
 eikon_principal: "[[Bahamut]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
   - nation/lumos
@@ -22,4 +22,4 @@ Les guérisseurs lui adressent des prières avant de secourir des personnes en d
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Eikons Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Saint-Empire de Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

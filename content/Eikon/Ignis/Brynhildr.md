@@ -1,8 +1,8 @@
 ---
 type: eikon-secondaire
-nation: "Ignis"
+nation: Archiduché d’Ignis
 eikon_principal: "[[Phénix]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
   - nation/ignis
@@ -22,4 +22,4 @@ Les artisans la voient comme la patronne des machines thermiques ; d’autres y 
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Eikons Ignis]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Archiduché d’Ignis]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

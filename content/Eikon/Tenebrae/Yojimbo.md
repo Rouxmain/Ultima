@@ -1,8 +1,8 @@
 ---
 type: eikon-secondaire
-nation: "Tenebrae"
+nation: "[[Royaume Déchu de Ténébrae]]"
 eikon_principal: "[[Odin]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
   - nation/tenebrae
@@ -22,4 +22,4 @@ Les mercenaires le prient avant un duel, mais les anciens rappellent que toute f
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Eikons  Tenebrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Royaume Déchu de Ténébrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

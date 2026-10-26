@@ -1,8 +1,8 @@
 ---
 type: eikon-secondaire
-nation: "Aqua"
+nation: "[[Royaume d’Aqua]]"
 eikon_principal: "[[Léviathan]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
   - nation/aqua
@@ -22,5 +22,5 @@ Des offrandes sont déposées loin des sources pour détourner son influence. Le
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Eikons Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Royaume d’Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

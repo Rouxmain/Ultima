@@ -1,8 +1,8 @@
 ---
 type: eikon-secondaire
-nation: "Fulgur"
+nation: "[[Démocratie technologique de Fulgur]]"
 eikon_principal: "[[Ramuh]]"
-statut: "légende non confirmée"
+statut: légende non confirmée
 tags:
   - ultima/eikons
   - nation/fulgur
@@ -22,4 +22,4 @@ Les habitants lui demandent de détourner les éclairs des tours et infrastructu
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Eikons  Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Démocratie technologique de Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
