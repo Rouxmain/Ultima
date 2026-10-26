@@ -10,7 +10,6 @@
 - [[Yéti]]
 
 ### [[Eikons Ignis]] — Eikon principal : [[Phénix]]
-- [[Ifrit]]
 - [[Brynhildr]]
 - [[Belias]]
 - [[Salamandre]]
@@ -19,7 +18,6 @@
 ### [[Eikons Lumos]] — Eikon principal : [[Bahamut]]
 - [[Alexandre]]
 - [[Madeen]]
-- [[Carbuncle]]
 - [[Licorne]]
 - [[Séraphin]]
 
