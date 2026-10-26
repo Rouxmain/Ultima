@@ -7,7 +7,6 @@ La République de Terra est une nation organisée et stable, bâtie autour du Cr
 
 ![[FFXVI_-_Dhalmekian_Republic_Banner.webp]]
 
-![[FF16_Tabor_Concept_Art.webp]]
 
 ![[ff16-drakes-fang-mothercrystal.jpg]]
 
