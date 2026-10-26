@@ -1,2 +1,2 @@
 ![[wotv-tidus.jpg]]
-Joueur de blitzball d'exception, du haut de ses 25 ans, il est le gardien de [[Yuna]]. Il fait le pacte avec [[Freedz]] de s'entraider et de devenir le plus fort chevalier du monde
+Joueur de blitzball d'exception, du haut de ses 25 ans, il est le gardien de [[Yuna]]. Il fait le pacte avec [[Freedz]] de s'entraider et de devenir le plus fort chevalier du monde. Il est originaire du [[Royaume d’Aqua]]
