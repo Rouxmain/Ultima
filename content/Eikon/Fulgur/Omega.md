@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Démocratie technologique de Fulgur]]"
+nation: "[[Fulgur]]"
 eikon_principal: "[[Ramuh]]"
 statut: légende non confirmée
 tags:
@@ -20,4 +20,4 @@ Certains adeptes du progrès la voient comme un idéal technologique ; d’autre
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Démocratie technologique de Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

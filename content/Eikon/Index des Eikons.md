@@ -6,46 +6,46 @@ Toutefois, aucune preuve concrète ne permet de confirmer l’existence de ces E
 Ainsi, même en l’absence de preuve, les Eikons secondaires continuent d’influencer la culture et la spiritualité de nombreuses communautés de Primera. Leur existence demeure incertaine mais la foi qu’ils inspirent, elle, reste bien réelle.
 ## Nations
 
-### [[Royaume de Glacies]]— Eikon principal : [[Shiva]]
+### [[Glacies]]— Eikon principal : [[Shiva]]
 - [[Fenrir]]
 - [[Mateus]]
 - [[Valigarmanda]]
 - [[Dragon des brumes]]
 - [[Yéti]]
 
-### [[Archiduché d’Ignis]] — Eikon principal : [[Phénix]]
+### [[Ignis]] — Eikon principal : [[Phénix]]
 - [[Brynhildr]]
 - [[Belias]]
 - [[Salamandre]]
 - [[Suzaku]]
 
-### [[Saint-Empire de Lumos]] — Eikon principal : [[Bahamut]]
+### [[Lumos]] — Eikon principal : [[Bahamut]]
 - [[Alexandre]]
 - [[Madeen]]
 - [[Licorne]]
 - [[Séraphin]]
 
-### [[Royaume de Ventus]] — Eikon principal : [[Garuda]]
+### [[Ventus]] — Eikon principal : [[Garuda]]
 - [[Bismarck]]
 - [[Pandemona]]
 - [[Valefor]]
 - [[Sylphe]]
 
-### [[Royaume d’Aqua]] — Eikon principal : [[Léviathan]]
+### [[Aqua]] — Eikon principal : [[Léviathan]]
 - [[Syldra]]
 - [[Famfrit]]
 - [[Siren]]
 - [[Cúchulainn]]
 - [[Remora]]
 
-### [[Démocratie technologique de Fulgur]] — Eikon principal : [[Ramuh]]
+### [[Fulgur]] — Eikon principal : [[Ramuh]]
 - [[Ixion]]
 - [[Atomos]]
 - [[Omega]]
 - [[Quetzalcoatl]]
 - [[Raiden]]
 
-### [[Royaume Déchu de Ténébrae]] — Eikon principal : [[Odin]]
+### [[Ténébrae]] — Eikon principal : [[Odin]]
 - [[Zalera]]
 - [[Anima]]
 - [[Diabolos]]
@@ -53,7 +53,7 @@ Ainsi, même en l’absence de preuve, les Eikons secondaires continuent d’inf
 - [[Yojimbo]]
 
 
-### [[République de Terra]] — Eikon principal : [[Titan]]
+### [[Terra]] — Eikon principal : [[Titan]]
 - [[Golem]]
 - [[Hecatoncheir]]
 - [[Kujata]]

@@ -1,1 +1,1 @@
-![[Elwin Rosefield.png]]Elwin Rosefield est l’Archiduc d’[[Archiduché d’Ignis]] et le Dominant de [[Phénix]]. Figure majeure de sa nation, il incarne la puissance du feu et le renouveau associé à l’oiseau légendaire.
+![[Elwin Rosefield.png]]Elwin Rosefield est l’Archiduc d’[[Ignis]] et le Dominant de [[Phénix]]. Figure majeure de sa nation, il incarne la puissance du feu et le renouveau associé à l’oiseau légendaire.

@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Royaume Déchu de Ténébrae]]"
+nation: "[[Ténébrae]]"
 eikon_principal: "[[Odin]]"
 statut: légende non confirmée
 tags:
@@ -20,11 +20,11 @@ Les familles lui adressent des prières lors des funérailles afin que les défu
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Royaume Déchu de Ténébrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Ténébrae]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 
 ## Liens Obsidian
 
-- **Nation :** [[Royaume Déchu de Ténébrae]]
+- **Nation :** [[Ténébrae]]
 - **Eikon principal :** [[Odin]]
 - **Index :** [[Index des Eikons]]
 

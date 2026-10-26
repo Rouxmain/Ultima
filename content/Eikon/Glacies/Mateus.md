@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Royaume de Glacies]]"
+nation: "[[Glacies]]"
 eikon_principal: "[[Shiva]]"
 statut: légende non confirmée
 tags:
@@ -20,5 +20,5 @@ On raconte qu’il règne sur un palais sous les glaciers. Les habitants prient 
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Royaume de Glacies]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Glacies]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

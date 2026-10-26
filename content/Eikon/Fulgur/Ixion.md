@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Démocratie technologique de Fulgur]]"
+nation: "[[Fulgur]]"
 eikon_principal: "[[Ramuh]]"
 statut: légende non confirmée
 tags:
@@ -20,5 +20,5 @@ Les voyageurs lui demandent d’accélérer leur route et de les protéger des o
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Démocratie technologique de Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Fulgur]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

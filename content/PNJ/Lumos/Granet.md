@@ -1,1 +1,1 @@
-![[Granet.jpg]]Invoceuse de [[République de Terra]], elle semble très attachés à Djidane et très protectrice de [[Eiko]][[Vivi]]
+![[Granet.jpg]]Invoceuse de [[Terra]], elle semble très attachés à Djidane et très protectrice de [[Eiko]][[Vivi]]

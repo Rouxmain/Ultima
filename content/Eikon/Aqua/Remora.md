@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Royaume d’Aqua]]"
+nation: "[[Aqua]]"
 eikon_principal: "[[Léviathan]]"
 statut: légende non confirmée
 tags:
@@ -21,5 +21,5 @@ Les pêcheurs la voient comme un signe de bonne fortune, à condition de ne jama
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Royaume d’Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Aqua]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 

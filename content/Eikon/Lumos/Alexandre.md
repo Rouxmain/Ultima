@@ -1,6 +1,6 @@
 ---
 type: eikon-secondaire
-nation: "[[Saint-Empire de Lumos]]"
+nation: "[[Lumos]]"
 eikon_principal: "[[Bahamut]]"
 statut: légende non confirmée
 tags:
@@ -20,4 +20,4 @@ Les fidèles jurent de défendre les faibles avant de demander sa protection. Ce
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Saint-Empire de Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Lumos]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

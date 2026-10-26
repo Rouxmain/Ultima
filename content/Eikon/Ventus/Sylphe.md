@@ -20,11 +20,11 @@ Les agriculteurs et navigateurs lui demandent une brise favorable. On laisse les
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[**[[Royaume de Ventus]]**]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[**[[Ventus]]**]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
 
 ## Liens Obsidian
 
-- **Nation :** [[**[[Royaume de Ventus]]**]]
+- **Nation :** [[**[[Ventus]]**]]
 - **Eikon principal :** [[Garuda]]
 - **Index :** [[Index des Eikons]]
 

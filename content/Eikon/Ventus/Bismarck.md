@@ -20,4 +20,4 @@ Les équipages lui demandent des courants calmes avant un voyage aérien. Certai
 
 ## Place dans la nation
 
-Cet Eikon est associé aux croyances de **[[Royaume de Ventus]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.
+Cet Eikon est associé aux croyances de **[[Ventus]]**. Certaines communautés lui adressent des prières, mais son culte ne constitue pas une preuve de son existence. Aucun Dominant n’est confirmé.

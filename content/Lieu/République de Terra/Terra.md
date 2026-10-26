@@ -1,4 +1,4 @@
-- Localisation : Sud de Primera
+"- Localisation : Sud de Primera
 - Cristal-Mère : Terre
 - Dominant : Hugo Kupka (incarne Titan)
 - Description :
