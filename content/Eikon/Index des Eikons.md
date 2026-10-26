@@ -30,7 +30,6 @@ Ainsi, même en l’absence de preuve, les Eikons secondaires continuent d’inf
 - [[Pandemona]]
 - [[Valefor]]
 - [[Sylphe]]
-- [[Typhon]]
 
 ### [[Royaume d’Aqua]] — Eikon principal : [[Léviathan]]
 - [[Syldra]]
