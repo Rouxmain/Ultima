@@ -1,0 +1,28 @@
+---
+type: objet-magique
+systeme: "D&D 5e - règles 2024"
+categorie: "Arme"
+rarete: "Peu courant"
+tags:
+  - dnd
+  - objet-magique
+---
+
+# Javeline de foudre
+
+| Propriété | Valeur |
+|---|---|
+| Type | Arme |
+| Rareté | Peu courant |
+
+## Fonctionnement
+
+Lorsqu’elle est lancée et activée, se transforme en éclair qui inflige des dégâts de foudre en ligne.
+
+> [!warning] Vérification des règles
+> Ce texte est un résumé de référence, pas une transcription intégrale. Pour les charges, DD, durées, conditions d’activation, restrictions et exceptions exactes, consulte la fiche correspondante dans le catalogue AideDD.
+
+## Références
+
+- Index : [[Objets magiques]]
+- Catalogue AideDD : https://www.aidedd.org/magic-item/fr/

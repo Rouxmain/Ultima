@@ -1,0 +1,102 @@
+---
+systeme: D&D 5e - règles 2024
+tags:
+  - dnd
+  - equipement
+  - reference
+---
+
+# Matériel d’aventurier
+
+> Matériel de base d'aventurier trouvable dans toutes les boutiques de [[Primera]]
+
+**Source :** https://www.aidedd.org/regles-24/equipement/materiel-daventurier/
+
+Chaque lien ouvre la fiche de l’objet. Depuis une fiche, utilise le lien « Index » pour revenir ici.
+
+## Liste des objets
+
+- [[Acide]]
+- [[antidote]]
+- [[beaux-habits]]
+- [[belier-portable]]
+- [[billes]]
+- [[boite-a-amadou]]
+- [[bougie]]
+- [[bouteille-verre]]
+- [[cadenas]]
+- [[carquois]]
+- [[carte]]
+- [[chaine]]
+- [[chausse-trappes]]
+- [[cloche]]
+- [[coffre]]
+- [[corde]]
+- [[costume]]
+- [[couverture]]
+- [[cruche]]
+- [[eau-benite]]
+- [[echelle]]
+- [[encre]]
+- [[etui-a-cartes-ou-a-parchemins]]
+- [[etui-pour-carreaux-darbalete]]
+- [[feu-gregeois]]
+- [[ficelle]]
+- [[filet]]
+- [[fiole]]
+- [[flasque]]
+- [[focaliseur-arcanique]]
+- [[focaliseur-druidique]]
+- [[grappin]]
+- [[huile]]
+- [[lampe]]
+- [[lanterne-a-capote]]
+- [[lanterne-sourde]]
+- [[livre]]
+- [[longue-vue]]
+- [[loupe]]
+- [[materiel-descalade]]
+- [[menottes]]
+- [[miroir]]
+- [[munitions]]
+- [[outre-pleine]]
+- [[palan]]
+- [[panier]]
+- [[papier]]
+- [[paquetage-dartiste]]
+- [[paquetage-de-cambrioleur]]
+- [[paquetage-de-diplomate]]
+- [[paquetage-decclesiastique]]
+- [[paquetage-derudit]]
+- [[paquetage-dexplorateur]]
+- [[paquetage-dexploration-souterraine]]
+- [[parchemin]]
+- [[parchemin-de-sort-1er-niveau]]
+- [[parchemin-de-sort-sort-mineur]]
+- [[parfum]]
+- [[pelle]]
+- [[perche]]
+- [[pied-de-biche]]
+- [[piege-a-machoires]]
+- [[pointes-en-fer]]
+- [[poison-standard]]
+- [[porte-plume]]
+- [[pot-en-fer]]
+- [[potion-de-guerison]]
+- [[rations]]
+- [[robe]]
+- [[sac]]
+- [[sac-a-dos]]
+- [[sac-de-couchage]]
+- [[sacoche]]
+- [[sacoche-a-composantes]]
+- [[seau]]
+- [[sifflet]]
+- [[symbole-sacre]]
+- [[tente]]
+- [[tenue-de-voyage]]
+- [[tonneau]]
+- [[torche]]
+- [[trousse-de-soins]]
+
+---

@@ -1,0 +1,28 @@
+---
+type: objet-magique
+systeme: "D&D 5e - règles 2024"
+categorie: "Baguette"
+rarete: "Courant"
+tags:
+  - dnd
+  - objet-magique
+---
+
+# Baguette du chef d'orchestre
+
+| Propriété | Valeur |
+|---|---|
+| Type | Baguette |
+| Rareté | Courant |
+
+## Fonctionnement
+
+Produit des sons musicaux ou dirige un air sans fournir d’avantage de combat significatif.
+
+> [!warning] Vérification des règles
+> Ce texte est un résumé de référence, pas une transcription intégrale. Pour les charges, DD, durées, conditions d’activation, restrictions et exceptions exactes, consulte la fiche correspondante dans le catalogue AideDD.
+
+## Références
+
+- Index : [[Objets magiques]]
+- Catalogue AideDD : https://www.aidedd.org/magic-item/fr/
