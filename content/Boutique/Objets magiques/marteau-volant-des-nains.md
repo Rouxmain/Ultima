@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Arme"
-rarete: "Très rare"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Arme
+rarete: Très rare
+tags: []
 ---
 
 # Marteau volant des nains

@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Objet merveilleux"
-rarete: "Très rare"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Objet merveilleux
+rarete: Très rare
+tags: []
 ---
 
 # Boule de cristal

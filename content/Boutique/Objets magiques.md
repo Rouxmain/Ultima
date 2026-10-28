@@ -1,15 +1,12 @@
 ---
-tags:
-  - dnd
-  - objets-magiques
-  - reference
-systeme: "D&D 5e - règles 2024"
+tags: []
+systeme: D&D 5e - règles 2024
 ---
 
 # Objets magiques — D&D 5e (2024)
 
 > [!info] Référence
-> Index d’objets magiques fondé sur le catalogue D&D 5.5 (2024) d’AideDD. Les effets ci-dessous sont des résumés pratiques, reformulés ; vérifie la fiche de référence pour les conditions exactes, charges, DD, durées et exceptions.
+>Objet Magique trouvable dans certaines boutiques de [[Primera]]
 
 Source : https://www.aidedd.org/magic-item/fr/
 

@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Anneau"
-rarete: "Rare"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Anneau
+rarete: Rare
+tags: []
 ---
 
 # Anneau de résistance

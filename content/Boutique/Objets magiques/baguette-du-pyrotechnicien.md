@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Baguette"
-rarete: "Courant"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Baguette
+rarete: Courant
+tags: []
 ---
 
 # Baguette du pyrotechnicien

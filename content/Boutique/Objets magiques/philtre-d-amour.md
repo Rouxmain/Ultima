@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Potion"
-rarete: "Peu courant"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Potion
+rarete: Peu courant
+tags: []
 ---
 
 # Philtre d'amour

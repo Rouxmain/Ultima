@@ -1,10 +1,8 @@
 ---
-poids: "---"
+poids: ---
 prix: 5 po
 systeme: D&D 5e - règles 2024
-tags:
-- dnd
-- equipement
+tags: []
 type: objet
 ---
 

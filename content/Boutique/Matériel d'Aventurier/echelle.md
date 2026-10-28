@@ -2,9 +2,7 @@
 poids: 12,5 kg
 prix: 1 pa
 systeme: D&D 5e - règles 2024
-tags:
-- dnd
-- equipement
+tags: []
 type: objet
 ---
 

@@ -2,9 +2,7 @@
 poids: 250 g
 prix: 1 pc
 systeme: D&D 5e - règles 2024
-tags:
-- dnd
-- equipement
+tags: []
 type: objet
 ---
 

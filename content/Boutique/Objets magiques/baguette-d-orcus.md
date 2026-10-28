@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Baguette"
-rarete: "Artefact"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Baguette
+rarete: Artefact
+tags: []
 ---
 
 # Baguette d'Orcus

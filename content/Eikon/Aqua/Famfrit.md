@@ -4,7 +4,6 @@ nation: "[[Aqua]]"
 eikon_principal: "[[Léviathan]]"
 statut: légende non confirmée
 tags:
-  - nation/aqua
 ---
 
 # Famfrit

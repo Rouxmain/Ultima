@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Arme"
-rarete: "Variable"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Arme
+rarete: Variable
+tags: []
 ---
 
 # Arme +1, +2 ou +3

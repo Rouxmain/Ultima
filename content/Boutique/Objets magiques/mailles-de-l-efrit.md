@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Armure"
-rarete: "Légendaire"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Armure
+rarete: Légendaire
+tags: []
 ---
 
 # Mailles de l'éfrit

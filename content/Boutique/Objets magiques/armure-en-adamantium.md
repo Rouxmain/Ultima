@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Armure"
-rarete: "Peu courant"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Armure
+rarete: Peu courant
+tags: []
 ---
 
 # Armure en adamantium

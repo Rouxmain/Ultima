@@ -1,11 +1,9 @@
 ---
 type: objet-magique
-systeme: "D&D 5e - règles 2024"
-categorie: "Bâton"
-rarete: "Très rare"
-tags:
-  - dnd
-  - objet-magique
+systeme: D&D 5e - règles 2024
+categorie: Bâton
+rarete: Très rare
+tags: []
 ---
 
 # Bâton de feu
